@@ -4,10 +4,10 @@
 
 ## Index
 
-- Basic
+- [Basic](https://github.com/jayarnim/study-RBasicSyntax/blob/main/1_Basic.ipynb)
 
 - Data Structure
-  - Singular Type Component
+  - [Singular Type Component](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_1_Singlular.ipynb)
   - Multi Type Component
 
 - Functional Tools
