@@ -1,5 +1,7 @@
 # R Basic Syntax
 
+</br>
+
 ## Index
 
 - Basic
@@ -15,6 +17,8 @@
 - EDA
 
 - Visualizing with ggplot
+
+</br>
 
 ## Reference
 
