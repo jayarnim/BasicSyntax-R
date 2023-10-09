@@ -7,8 +7,8 @@
 - [Basic](https://github.com/jayarnim/study-RBasicSyntax/blob/main/1_Basic.ipynb)
 
 - Data Structure
-  - [Singular Type Component](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_1_Singlular.ipynb)
-  - Multi Type Component
+  - [Singular Type Element](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_1_Singlular.ipynb)
+  - [Multi Type Element](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_2_Multi.ipynb)
 
 - [Functional Tools](https://github.com/jayarnim/study-RBasicSyntax/blob/main/3_Functional_Tools.ipynb)
 
