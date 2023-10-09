@@ -10,7 +10,7 @@
   - [Singular Type Component](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_1_Singlular.ipynb)
   - Multi Type Component
 
-- Functional Tools
+- [Functional Tools](https://github.com/jayarnim/study-RBasicSyntax/blob/main/3_Functional_Tools.ipynb)
 
 - [Loading Data Set](https://github.com/jayarnim/study-RBasicSyntax/blob/main/4_Loading_Data_Set.ipynb)
 
