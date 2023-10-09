@@ -14,7 +14,7 @@
 
 - [Loading Data Set](https://github.com/jayarnim/study-RBasicSyntax/blob/main/4_Loading_Data_Set.ipynb)
 
-- EDA
+- [EDA](https://github.com/jayarnim/study-RBasicSyntax/blob/main/5_EDA.ipynb)
 
 - Visualizing with ggplot
 
