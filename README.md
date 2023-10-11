@@ -4,17 +4,17 @@
 
 ## Index
 
-- [Basic](https://github.com/jayarnim/study-RBasicSyntax/blob/main/1_Basic.ipynb)
+- [Basic](https://github.com/jayarnim/BasicSyntax-R/blob/main/1_Basic.ipynb)
 
 - Data Structure
-  - [Singular Type Element](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_1_Singlular.ipynb)
-  - [Multi Type Element](https://github.com/jayarnim/study-RBasicSyntax/blob/main/2_Data_Structure_2_Multi.ipynb)
+  - [Singular Type Element](https://github.com/jayarnim/BasicSyntax-R/blob/main/2_Data_Structure_1_Singlular.ipynb)
+  - [Multi Type Element](https://github.com/jayarnim/BasicSyntax-R/blob/main/2_Data_Structure_2_Multi.ipynb)
 
-- [Functional Tools](https://github.com/jayarnim/study-RBasicSyntax/blob/main/3_Functional_Tools.ipynb)
+- [Functional Tools](https://github.com/jayarnim/BasicSyntax-R/blob/main/3_Functional_Tools.ipynb)
 
-- [Loading Data Set](https://github.com/jayarnim/study-RBasicSyntax/blob/main/4_Loading_Data_Set.ipynb)
+- [Loading Data Set](https://github.com/jayarnim/BasicSyntax-R/blob/main/4_Loading_Data_Set.ipynb)
 
-- [EDA](https://github.com/jayarnim/study-RBasicSyntax/blob/main/5_EDA.ipynb)
+- [EDA](https://github.com/jayarnim/BasicSyntax-R/blob/main/5_EDA.ipynb)
 
 - Visualizing with ggplot
 
