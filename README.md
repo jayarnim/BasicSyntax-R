@@ -16,7 +16,7 @@
 
 - [EDA](https://github.com/jayarnim/BasicSyntax-R/blob/main/5_EDA.ipynb)
 
-- Visualizing with ggplot
+- [Visualizing with ggplot2](https://github.com/jayarnim/BasicSyntax-R/blob/main/6_Visualizing_with_GGPLOT2.ipynb)
 
 </br>
 
